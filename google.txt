@@ -1,0 +1,51 @@
+# google
+google.com
+accounts.google.com
+consent.google.com
+policies.google.com
+apis.google.com
+gmail.com
+keep.google.com
+news.google.com
+lookerstudio.google.com
+suggestqueries.google.com
+gstatic.com
+fonts.gstatic.com
+lh3.googleusercontent.com
+# google ai
+deepmind.com
+deepmind.google
+ai.google.dev
+aistudio.google.com
+makersuite.google.com
+generativeai.google
+generativelanguage.googleapis.com
+bard.google.com
+gemini.google
+gemini.google.com
+notebooklm.google
+notebooklm.google.com
+notebooklm-pa.googleapis.com
+jules.google
+jules.google.com
+labs.google
+stitch.withgoogle.com
+# google ai infrastructure
+android.googleapis.com
+aisandbox-pa.googleapis.com
+geller-pa.googleapis.com
+proactivebackend-pa.googleapis.com
+robinfrontend-pa.googleapis.com
+subscriptionsfirstparty-pa.googleapis.com
+clients6.google.com
+alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
+webchannel-alkalimakersuite-pa.clients6.google.com
+# gemini ide
+aida.googleapis.com
+apihub.googleapis.com
+cloudaicompanion.googleapis.com
+# fireworks
+fireworks.ai
+api.fireworks.ai
+app.fireworks.ai
